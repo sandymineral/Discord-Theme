@@ -27,6 +27,9 @@
         "BACKGROUND_MENTIONED_HOVER": [
             "#FF63B1"
         ],
+        "MOBILE_COMMAND_BAR_BACKGROUND": [
+            "#0e0c0e"
+        ],
         "SCROLLBAR_THIN_THUMB": [
             "#00000000"
         ],
